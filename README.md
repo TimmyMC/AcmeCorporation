@@ -1,11 +1,12 @@
 # Acme Corporation
-
+###### Created by *Timmy Christensen*
 ##### Table of Contents  
   - [Project setup](#project-setup)
     - [Step 1 - Startup Project](#step-1---startup-project)
     - [Step 2 - Starting the Database](#step-2---starting-the-database)
     - [Step 3 - Running the project for the first time](#step-3---running-the-project-for-the-first-time)
     - [Step 4 - Product Keys](#step-4---product-keys)
+  - [Contact](#contact)
 
 ## Project setup
 
@@ -42,3 +43,5 @@ Here are some valid Product Serial Keys that can be used for applying to the giv
 * 436bc527-8dd6-4626-b6e9-e986c021f68d
 
 
+## Contact
+Feel free to contact me if you have any questions, or if my setup instructions fail.
