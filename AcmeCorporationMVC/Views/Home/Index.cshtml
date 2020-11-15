@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <img alt="Acme Corporation Logo"src="@Url.Content("~/Content/Images/acme-corp.png")" />
+    <p class="lead">Have you bought one of our products? You are eligible for our giveaway!</p>
+    <p><a href="/Home/SubmitSerial" class="btn btn-primary btn-lg">Apply here &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <h4>Our Products</h4>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <img class="img-responsive center-block" alt="Acme Tornado Kit" src="@Url.Content("~/Content/Images/acme-tornado-kit.png")">
+            </div>
+            <div class="panel-footer">
+                <p>Acme Do-It Yourself Tornado Kit</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <img class="img-responsive center-block" alt="Acme Magnet" src="@Url.Content("~/Content/Images/acme-magnet.png")">
+            </div>
+            <div class="panel-footer">
+                <p>Acme Magnet</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <img class="img-responsive center-block" alt="Acme Dynamite" src="@Url.Content("~/Content/Images/acme-dynamite.png")">
+            </div>
+            <div class="panel-footer">
+                <p>Acme Dynamite</p>
+            </div>
+        </div>
+    </div>
+</div>

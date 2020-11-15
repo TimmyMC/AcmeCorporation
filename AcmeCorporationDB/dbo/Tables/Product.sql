@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Product]
+(
+	[SerialNumber] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [ProductName] NVARCHAR(50) NOT NULL
+)
