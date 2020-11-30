@@ -1,12 +1,22 @@
 # Acme Corporation
 ###### Created by *Timmy Christensen*
 ##### Table of Contents  
+  - [Introduction](#introduction)
+  - [Preview](#preview)
   - [Project setup](#project-setup)
     - [Step 1 - Startup Project](#step-1---startup-project)
     - [Step 2 - Starting the Database](#step-2---starting-the-database)
     - [Step 3 - Running the project for the first time](#step-3---running-the-project-for-the-first-time)
     - [Step 4 - Product Keys](#step-4---product-keys)
   - [Contact](#contact)
+
+## Introduction
+This is an ASP.NET landing page for an international company called “Acme Corporation” that allows people to enter a draw for a prize. A person can enter the draw if they have a valid serial number for purchasing one of Acme Corporation’s products. A person can enter the draw twice for every valid serial number that they have. The person must be at least 18 years old.
+
+## Preview
+![Landing Page](docs/images/webpage1.png)
+![Submission Page](docs/images/webpage2.png)
+![View Page](docs/images/webpage3.png)
 
 ## Project setup
 
